@@ -1,0 +1,30 @@
+
+        
+        
+    .container {
+      margin-top: 100px;
+    }
+    .btn-danger , .btn {
+      border-radius: 0;
+    }
+    .btn:focus , .btn:hover .btn-danger:focus {
+        outline: none;
+        border: none;
+    }
+    .form-control {
+    border-radius: 0;
+    }
+    .table-social span {
+      background:#666;
+      padding: 5px;
+      display: inline-block;
+      color: #fff;
+      text-align: center;
+      min-width: 10%;
+    }
+    .table-social p.soc_text {
+      font-weight: 700;
+      font-size: 18px;
+      padding: 10px ;
+      display: inline;
+    }
